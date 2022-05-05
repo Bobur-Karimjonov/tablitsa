@@ -1,0 +1,13 @@
+.table{
+  margin: auto;
+  margin-top: 100px;
+  text-transform: capitalize;
+  border-collapse: collapse;
+  text-align: center;
+  background-color: #ffffff;
+}
+
+th,td{
+  border: 1px solid #4A4A4A;
+  padding: 10px;
+}
